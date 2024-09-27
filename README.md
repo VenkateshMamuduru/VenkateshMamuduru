@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VenkateshMamuduru
+- 👋 Hi, I’m @VenkateshPersonal
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Web development
